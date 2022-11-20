@@ -1,0 +1,17 @@
+body{text-align: center;
+	font-size: 350%;
+	font-style: italic;
+	font-weight: bold;
+	color: green;}
+	body{background-image: url(Kurt.JPG);
+	background-position: top center;
+	background-size: 300px 300px;
+	background-repeat: no-repeat;
+background-color: black;}
+	p{text-align: center;
+		font-size: 150%;
+		font-style: italic;
+		font-weight: bold;
+		color: green;}
+
+
